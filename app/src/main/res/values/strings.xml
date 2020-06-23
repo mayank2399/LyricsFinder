@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LyricsFinder</string>
+    <string name="ARTIST">ENTER ARTIST NAME</string>
+    <string name="song">ENTER SONG NAME</string>
+</resources>
